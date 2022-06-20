@@ -3,7 +3,7 @@ import axios from 'axios'
 
 
 const apis = {
-    development: 'http://localhost:1234/api/'
+    development: process.env.API
 }
 
 const api = axios.create({
