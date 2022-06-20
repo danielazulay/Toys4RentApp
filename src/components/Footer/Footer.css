@@ -1,0 +1,25 @@
+#foot{
+  position: relative;
+  bottom: 0;
+  
+}
+#foot{
+  width: 100hpv;
+  height: 80px;
+  color: white;
+  background-color: #0d6efd;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+#foot,a{
+  margin-bottom: 5px;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+
+
+

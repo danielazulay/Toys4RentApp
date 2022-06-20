@@ -1,0 +1,27 @@
+body{
+    margin-bottom: 180px;
+    clear: both;
+}
+.block{
+    margin-left: 40px;
+}
+.list{
+
+    width: 100%;
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap ;
+    margin-bottom: 35px;
+}
+.search-bar{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card,img{
+    width:50px;
+    height:10px;
+}

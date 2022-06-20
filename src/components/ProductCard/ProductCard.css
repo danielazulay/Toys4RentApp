@@ -1,0 +1,23 @@
+.card{
+    height: 400px;
+    width: auto;
+    margin:15px;
+}
+.card-img{
+    width: auto;
+    height: 240px;
+
+}
+.card-img,img{
+    padding: 15px;
+}
+
+#buttondir{
+    margin-left: 0;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+#buttondir button {
+    width: 100%
+}

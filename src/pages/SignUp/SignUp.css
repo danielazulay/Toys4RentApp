@@ -1,0 +1,11 @@
+.form-singup{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+#btn-submit{
+    margin-left: 45%;
+    margin-top: 5%;
+    margin-bottom: 55px;
+    font-weight: 150;
+}

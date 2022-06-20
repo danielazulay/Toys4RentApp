@@ -1,0 +1,32 @@
+#edit-form{
+    width: 40%;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 100px;
+
+}
+.buttonEdit{
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 100px;
+
+}
+p,.detailEdit{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#allBlocks{
+
+    display: flex;
+  justify-content:space-between
+
+
+}
+#block1{
+  width: 60%;
+}
+#block2{
+    padding: 10px;
+    width: 40%;
+}

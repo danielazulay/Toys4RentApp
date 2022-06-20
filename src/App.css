@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+
+}
+.titlepage{
+  text-align: center;
+  margin-top: 55px;
+  font-weight: 500;
 }
 
 .App-logo {

@@ -1,0 +1,16 @@
+#buttonreturn{margin-left: 0;
+}
+a{
+    margin-right: 4px;
+    margin-left: 0;
+}
+#detailed{
+    height:529px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#detailed img{
+    width: 350px;
+    height: 350px;
+}
