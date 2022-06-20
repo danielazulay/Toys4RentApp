@@ -3,7 +3,7 @@ import axios from 'axios'
 
 
 const apis = {
-    development: process.env.API
+    development: 'https://toy4api.herokuapp.com/'
 }
 
 const api = axios.create({
